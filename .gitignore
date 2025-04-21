@@ -1,0 +1,8 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+.vs
+*.csproj.user
+*.cs.uid
+*.import
+*.tscn.import
